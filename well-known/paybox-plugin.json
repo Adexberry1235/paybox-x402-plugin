@@ -1,0 +1,14 @@
+{
+  "id": "paybox-x402-mobile-plugin",
+  "name": "PayBox Micro-Task Plugin",
+  "version": "1.0.0",
+  "description": "x402-gated execution service built for AI agents in PayBox Marketplace.",
+  "category": "merchant_tools",
+  "endpoints": {
+    "x402_resource": "/api/agent-service"
+  },
+  "pricing": {
+    "model": "per_request",
+    "rate_usd": "0.05"
+  }
+}
