@@ -1,0 +1,13 @@
+{
+  "name": "paybox-x402-plugin",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@x402/express": "^0.1.0",
+    "@x402/core": "^0.1.0",
+    "express": "^4.19.2"
+  }
+}
